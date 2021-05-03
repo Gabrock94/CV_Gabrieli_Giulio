@@ -228,6 +228,8 @@
 \newenvironment{cvcolumn}[1]{\begin{minipage}[t]{#1}\raggedright}{\end{minipage}}
 
 \RequirePackage[backend=biber,style=apa,sorting=none]{biblatex}
+
+
 %% For removing numbering entirely when using a numeric style
 % \setlength{\bibhang}{1em}
 % \DeclareFieldFormat{labelnumberwidth}{\makebox[\bibhang][l]{\itemmarker}}
