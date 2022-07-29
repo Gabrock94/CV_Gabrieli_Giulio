@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=latex 2021.9.13)  20 APR 2022 11:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=latex 2021.9.13)  29 JUL 2022 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1546,9 +1546,9 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 23.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 37.
+(Font)              scaled to size 9.0pt on input line 35.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 37.
+ut line 35.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 ))
@@ -1568,13 +1568,22 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 174.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 174.
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 174.
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 174.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 174.
  [3] [4]
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.184 		}
+         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
@@ -1612,6 +1621,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
+[6]
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
@@ -1621,10 +1631,8 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[6]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 184.
-
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
@@ -1640,19 +1648,24 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 194.
 [7] [8]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 272.
+(Font)              <6> on input line 274.
  [9] [10] [11] (./CV_Gabrieli.aux)
 Package rerunfilecheck Info: File `CV_Gabrieli.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'CV_Gabrieli.run.xml'.
 \openout1 = `CV_Gabrieli.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33704 strings out of 478600
- 661562 string characters out of 5854126
- 1494020 words of memory out of 5000000
- 50933 multiletter control sequences out of 15000+600000
+ 33721 strings out of 478600
+ 662204 string characters out of 5854126
+ 1495117 words of memory out of 5000000
+ 50945 multiletter control sequences out of 15000+600000
  786057 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,9n,122p,1156b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1664,10 +1677,10 @@ cal/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on CV_Gabrieli.pdf (11 pages, 172702 bytes).
+Output written on CV_Gabrieli.pdf (11 pages, 173527 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
- 336 compressed objects within 4 object streams
- 129 named destinations out of 1000 (max. 500000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
+ 134 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
