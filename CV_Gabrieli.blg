@@ -1,20 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'CV_Gabrieli.blg'
-[62] biber:340> INFO - === Thu Oct 12, 2023, 07:30:54
-[72] Biber.pm:418> INFO - Reading 'CV_Gabrieli.bcf'
-[137] Biber.pm:969> INFO - Using all citekeys in bib section 0
-[149] Biber.pm:4383> INFO - Processing section 0
-[168] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[173] bibtex.pm:1713> INFO - LaTeX decoding ...
-[274] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
-[1277] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1277] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1286] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1286] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[1365] bbl.pm:654> INFO - Writing 'CV_Gabrieli.bbl' with encoding 'UTF-8'
-[1467] bbl.pm:757> INFO - Output to CV_Gabrieli.bbl
-[1467] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_P3Vf/a9e03cb3043b9e2c02591da84105bb68_6762.utf8, line 13, warning: 1 characters of junk seen at toplevel
-[1467] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1467] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1467] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1467] Biber.pm:132> INFO - WARNINGS: 4
+[72] biber:340> INFO - === Sat Mar 30, 2024, 09:39:02
+[88] Biber.pm:418> INFO - Reading 'CV_Gabrieli.bcf'
+[169] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[182] Biber.pm:4383> INFO - Processing section 0
+[192] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[198] bibtex.pm:1713> INFO - LaTeX decoding ...
+[406] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[1643] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1643] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1643] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1643] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1732] bbl.pm:654> INFO - Writing 'CV_Gabrieli.bbl' with encoding 'UTF-8'
+[1849] bbl.pm:757> INFO - Output to CV_Gabrieli.bbl
+[1849] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_F3aX/a9e03cb3043b9e2c02591da84105bb68_13914.utf8, line 13, warning: 1 characters of junk seen at toplevel
+[1849] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1849] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1849] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1849] Biber.pm:132> INFO - WARNINGS: 4

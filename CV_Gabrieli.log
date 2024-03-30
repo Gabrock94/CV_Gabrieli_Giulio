@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.10.7)  12 OCT 2023 07:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.3.17)  30 MAR 2024 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1522,17 +1522,17 @@ LaTeX Info: Redefining \nameref on input line 47.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 50.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 65.
+(Font)              scaled to size 24.88pt on input line 66.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 65.
+(Font)              scaled to size 24.88pt on input line 66.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 65.
+(Font)              scaled to size 12.0pt on input line 66.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 65.
+(Font)              scaled to size 12.0pt on input line 66.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 65.
+(Font)              scaled to size 8.0pt on input line 66.
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 65.
+ut line 66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
@@ -1546,7 +1546,7 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 <argument> C##
               
-l.5 \cvtag{C#}
+l.7 \cvtag{C#}
               
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1554,11 +1554,11 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 23.
+(Font)              scaled to size 10.0pt on input line 24.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 36.
+(Font)              scaled to size 9.0pt on input line 37.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 36.
+ut line 37.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 ))
@@ -1567,37 +1567,37 @@ File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./page2sidebar.tex)
 [2]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 164.
+(Font)              scaled to size 14.4pt on input line 172.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 164.
+(Font)              scaled to size 14.4pt on input line 172.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.164 		}
+l.172 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 164.
+ine 172.
 (/usr/share/texlive/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 164.
+(Font)              scaled to size 9.0pt on input line 172.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 164.
+(Font)              scaled to size 10.0pt on input line 172.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 164.
+(Font)              <7> on input line 172.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 164.
+(Font)              <5> on input line 172.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.164 		}
+l.172 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1606,7 +1606,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.164 		}
+l.172 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1616,7 +1616,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.164 		}
+l.172 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1626,7 +1626,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.164 		}
+l.172 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1635,7 +1635,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.164 		}
+l.172 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1644,7 +1644,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1653,7 +1653,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1663,7 +1663,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1672,7 +1672,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1682,7 +1682,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1691,7 +1691,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1700,7 +1700,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Argument of \UTF@three@octets@noexpand has an extra }.
 <inserted text> 
                 \par 
-l.174 		}
+l.182 		}
          
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1713,7 +1713,7 @@ Runaway argument?
 ! Paragraph ended before \UTF@three@octets@noexpand was complete.
 <to be read again> 
                    \par 
-l.174 		}
+l.182 		}
          
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1722,7 +1722,7 @@ My plan is to forget the whole thing and hope for the best.
 ! Undefined control sequence.
 \UseRawInputEncoding ...tencodingname \@undefined 
                                                   \let \DeclareFontEncoding@...
-l.174 		}
+l.182 		}
          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1733,7 +1733,7 @@ and I'll forget about whatever was undefined.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \let 
-l.174 		}
+l.182 		}
          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1741,7 +1741,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \let 
-l.174 		}
+l.182 		}
          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1749,7 +1749,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \let 
-l.174 		}
+l.182 		}
          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1757,7 +1757,7 @@ not appear between \csname and \endcsname.
 ! Undefined control sequence.
 <argument> \@undefined 
                        
-l.174 		}
+l.182 		}
          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1768,7 +1768,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \UseRawInputEncoding ...tencodingname \@undefined 
                                                   \let \DeclareFontEncoding@...
-l.174 		}
+l.182 		}
          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1779,7 +1779,7 @@ and I'll forget about whatever was undefined.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \let 
-l.174 		}
+l.182 		}
          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1787,7 +1787,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \let 
-l.174 		}
+l.182 		}
          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1795,7 +1795,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \let 
-l.174 		}
+l.182 		}
          
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1803,7 +1803,7 @@ not appear between \csname and \endcsname.
 ! Undefined control sequence.
 <argument> \@undefined 
                        
-l.174 		}
+l.182 		}
          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1818,7 +1818,7 @@ see the latex manual or latex companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 		}
+l.182 		}
          
 the document does not appear to be in utf-8 encoding.
 try adding \let utf8\let \GenericError {               }{latex error: can be us
@@ -1852,7 +1852,7 @@ see the latex manual or latex companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 		}
+l.182 		}
          
 the document does not appear to be in utf-8 encoding.
 try adding \let utf8\let \GenericError {               }{latex error: can be us
@@ -1882,31 +1882,31 @@ alternatively, save the file in utf-8 using your editor or another tool
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 174.
+(Font)              scaled to size 7.0pt on input line 182.
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.174 		}
+l.182 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 179.
+(Font)              scaled to size 9.0pt on input line 187.
 [7]
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 184.
+(Font)              scaled to size 9.0pt on input line 192.
  [8]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 254.
+(Font)              <6> on input line 267.
  [9] [10] [11] (./CV_Gabrieli.aux)
 Package rerunfilecheck Info: File `CV_Gabrieli.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1917,7 +1917,7 @@ Package logreq Info: Writing requests to 'CV_Gabrieli.run.xml'.
 Here is how much of TeX's memory you used:
  35022 strings out of 478288
  706465 string characters out of 5849315
- 1489279 words of memory out of 5000000
+ 1491279 words of memory out of 5000000
  52438 multiletter control sequences out of 15000+600000
  851886 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1930,10 +1930,10 @@ st/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/typoland/lato/Lato-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 typoland/lato/Lato-Regular.pfb>
-Output written on CV_Gabrieli.pdf (11 pages, 173105 bytes).
+Output written on CV_Gabrieli.pdf (11 pages, 174628 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
+ 387 PDF objects out of 1000 (max. 8388607)
+ 360 compressed objects within 4 object streams
  145 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
