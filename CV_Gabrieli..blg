@@ -1,5 +1,5 @@
-[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'CV_Gabrieli..blg'
-[71] biber:340> INFO - === Tue Oct 29, 2024, 11:46:08
-[202] Utils.pm:398> ERROR - Cannot find 'CV_Gabrieli..bcf'!
-[203] Biber.pm:135> INFO - ERRORS: 1
+[37] biber:340> INFO - === Fri Jan 24, 2025, 10:23:18
+[122] Utils.pm:399> ERROR - Cannot find 'CV_Gabrieli..bcf'!
+[122] Biber.pm:136> INFO - ERRORS: 1
