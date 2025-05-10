@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=latex 2024.11.26)  25 FEB 2025 11:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=latex 2024.11.26)  2 APR 2025 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1568,37 +1568,28 @@ st/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texlive/texmf-dist/fonts/enc/d
 vips/fontawesome/fontawesomeone.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dv
 ips/fontawesome/fontawesometwo.enc}] (./page2sidebar.tex) [2]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 172.
+(Font)              scaled to size 14.4pt on input line 168.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 172.
+(Font)              scaled to size 14.4pt on input line 168.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 172.
+ine 168.
 
 (/usr/share/texlive/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 172.
+(Font)              scaled to size 9.0pt on input line 168.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 172.
+(Font)              scaled to size 10.0pt on input line 168.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 172.
+(Font)              <7> on input line 168.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 172.
+(Font)              <5> on input line 168.
  [3{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}] [4]
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
-         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1608,7 +1599,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1617,7 +1608,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1626,7 +1617,16 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
+         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1636,7 +1636,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1645,7 +1645,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1654,7 +1654,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1667,7 +1667,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 		}
+l.199 		}
          
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1682,7 +1682,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 		}
+l.199 		}
          
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1697,7 +1697,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 		}
+l.199 		}
          
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1705,51 +1705,58 @@ or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
+[7]
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[7]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 182.
-
+(Font)              scaled to size 7.0pt on input line 199.
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.182 		}
+l.199 		}
          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 189.
+(Font)              scaled to size 9.0pt on input line 206.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 194.
+(Font)              scaled to size 9.0pt on input line 211.
 [8] [9]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 281.
+(Font)              <6> on input line 307.
  [10] [11] [12] (./CV_Gabrieli.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `CV_Gabrieli.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'CV_Gabrieli.run.xml'.
 \openout1 = `CV_Gabrieli.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35037 strings out of 474223
- 707450 string characters out of 5748758
+ 35056 strings out of 474223
+ 708210 string characters out of 5748758
  1971972 words of memory out of 5000000
- 56623 multiletter control sequences out of 15000+600000
+ 56637 multiletter control sequences out of 15000+600000
  940696 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,9n,121p,1156b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1757,10 +1764,10 @@ Here is how much of TeX's memory you used:
 ></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on CV_Gabrieli.pdf (12 pages, 177150 bytes).
+Output written on CV_Gabrieli.pdf (12 pages, 177820 bytes).
 PDF statistics:
- 400 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 151 named destinations out of 1000 (max. 500000)
+ 407 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 156 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

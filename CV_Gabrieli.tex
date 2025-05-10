@@ -126,30 +126,47 @@
 	
 	\medskip
 	
-	\cvsection[page2sidebar]{Experience}
-
-	\cvevent{Data Entry}{Hellas Verona F.C. s.p.a}{June 2014 - December 2018}{Verona, Italy}{IT support and digital tickets management.}{}
-	
-	\divider
-	
-	\cvevent{Research assistant}{Affiliative Behaviour and Physiology Lab}{June 2018 - September 2018}{University of Trento}{Data analysis, manuscript preparation, speaker at scientific meetings.}{}
-	
-	\divider
-	
-	\cvevent{Scientific Meeting Organization}{University of Trento}{June 2017 - August 2017}{University of Trento}{Website design and IT support for 13th International Infant Cry Workshop.}{}
-	
-
-		
-		\cvsection{Teaching Experience}
+	\cvsection[page2sidebar]{Teaching Experience}
 		\cvevent{Teaching Assistant}{HP2700: Abnormal Psychology}{2020-2021}{Nanyang Technological University, Singapore}
 		\cvevent{Teaching Assistant}{HP4222-7237: The Neuroscience of Love
 		}{2019-2020}{Nanyang Technological University, Singapore} 
 		\cvevent{Teaching Assistant}{HP4021: Laboratory in Human and Animal Neuroscience}{2019-2020}{Nanyang Technological University, Singapore}
+		
+		\cvsection{Experience}
+		
+		\cvevent{Data Entry}{Hellas Verona F.C. s.p.a}{June 2014 - December 2018}{Verona, Italy}{IT support and digital tickets management.}{}
+		
+		\divider
+		
+		\cvevent{Research assistant}{Affiliative Behaviour and Physiology Lab}{June 2018 - September 2018}{University of Trento}{Data analysis, manuscript preparation, speaker at scientific meetings.}{}
+		
+		\divider
+		
+		\cvevent{Scientific Meeting Organization}{University of Trento}{June 2017 - August 2017}{University of Trento}{Website design and IT support for 13th International Infant Cry Workshop.}{}
+		
 		\newpage
+		
 		\begin{fullwidth}
 		\cvsection[]{Publications}
 		
 		\nocite{*}
+		
+		\def\yrlist{2025}
+		
+		\defbibfilter{papers}{
+			type=article or
+			type=incollection or
+			type=inproceedings or 
+			type=inbook
+		}
+		
+		\foreach \yr in \yrlist{
+			\defbibcheck{publicationInthisYear}{
+				\ifnumequal{\thefield{year}}{\yr}{}{\skipentry}
+			}
+			\printbibliography[check=publicationInthisYear, title=\yr,filter=papers]{}
+		}
+		
 		
 		\def\yrlist{2023,...,2018}
 		
@@ -178,7 +195,7 @@
 			\defbibcheck{publicationInthisYear}{
 				\ifnumequal{\thefield{year}}{\yr}{}{\skipentry}
 			}
-			\printbibliography[check=publicationInthisYear, title=\yr, filter=talks]{}
+			    \printbibliography[check=publicationInthisYear, title=\yr, filter=talks]{}
 		}
 		
 		\cvsection[]{Grants}
@@ -219,6 +236,14 @@
 		
 		\cvsection[]{Datasets}
 		
+		\def\yrlist{2025}
+		\foreach \yr in \yrlist{
+			\defbibcheck{publicationInthisYear}{
+				\ifnumequal{\thefield{year}}{\yr}{}{\skipentry}
+			}
+			\printbibliography[check=publicationInthisYear, title=\yr, type=dataset]
+		}
+		
 		\def\yrlist{2021,...,2019}
 		\foreach \yr in \yrlist{
 			\defbibcheck{publicationInthisYear}{
@@ -237,6 +262,7 @@
 			\item Acta Psychologica (5)
 			\item Brain Sciences (4)
 			\item Children (4)
+			\item Journal of Genetic Psychology (3)
 			\item Psychological Reports (3)
 			\item Scientific Reports (3)
 			\item Advances in Methods and Practices in Psychological Science (2)
@@ -245,8 +271,8 @@
 			\item Concurrency and Computation: Practice and Experience (2)
 			\item Frontiers in Public Health (2)
 			\item Infant Behavior and Development (2)
-			\item Journal of Genetic Psychology (2)
 			\item PeerJ (2)
+			\item Adolescents (1)
             \item Communication Psychology (1)
             \item Frontiers in Neurology (1)
 			\item Frontiers in Sustainable Food System (1)
